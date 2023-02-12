@@ -1,5 +1,7 @@
 # Odin Recipes
 
+A simple recipe page created with html and css
+
 ## Credits
 
 - [The Odin Project](https://www.theodinproject.com/dashboard)
