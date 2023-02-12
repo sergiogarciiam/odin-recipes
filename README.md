@@ -4,7 +4,7 @@ A simple recipe page created with html and css
 
 ## Credits
 
-- [The Odin Project](https://www.theodinproject.com/dashboard)
+- [The Odin Project](https://www.theodinproject.com/)
 - [AllRecipes](https://www.allrecipes.com/)
 
 ## License
