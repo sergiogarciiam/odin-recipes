@@ -2,10 +2,14 @@
 
 A simple recipe page created with html and css
 
-## Credits
+## Acknowledgements
 
-- [The Odin Project](https://www.theodinproject.com/)
-- [AllRecipes](https://www.allrecipes.com/)
+- Project idea by [The Odin Project](https://www.theodinproject.com/)
+- Recipes by [AllRecipes](https://www.allrecipes.com/)
+
+## Author
+
+- [Sergio García](https://github.com/sergiogarciiam)
 
 ## License
 
